@@ -1,0 +1,30 @@
+.slick-slide > div {
+  margin: 0 10px;
+}
+.slick-list {
+  margin: 0 -10px;
+}
+
+.slick-initialized {
+  overflow: hidden;
+}
+
+.sidebarStyle {
+  background: #daf3fc !important;
+  color: black !important;
+  border-radius: 10px !important;
+}
+.sidebarUnstyle {
+  color: #98a3b3 !important;
+}
+
+@font-face {
+  font-family: "ABCSocial";   /*Can be any text*/
+  src: local("ABCSocial"),
+    url("../../assets/fonts/ABCSocial.woff2") format("woff2");
+}
+@font-face {
+  font-family: "InterRoman";   /*Can be any text*/
+  src: local("InterRoman"),
+    url("../../assets/fonts/Inter-roman.woff2") format("woff2");
+}

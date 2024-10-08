@@ -1,0 +1,15 @@
+.blog-container>p>img{
+    width: 800px;
+}
+
+@media only screen and (max-width: 800px) {
+    .blog-container>p>img{
+        width: 500px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .blog-container>p>img{
+        width: 300px;
+    }
+}

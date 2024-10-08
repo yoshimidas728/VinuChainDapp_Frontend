@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.css-qvfn5c-MuiStack-root>:not(style)+:not(style) {
+  margin: 0;
+  margin-left: 0px !important;
+}
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+ 
+}
+@media (min-width: 1200px)
+ {
+.css-1xtqjdc-MuiTypography-root {
+    font-size: 3rem !important;
+}}
+ 
+ 
+.ck.ck-editor__main>.ck-editor__editable:not(.ck-focused) {
+    border-color: var(--ck-color-base-border);
+    padding: 2.5rem !important;
+}
+ .css-jpln7h-MuiTabs-scroller{
+   
+  position: static !important;
+ }
+ .css-11yukd5-MuiTabs-indicator{
+  position: static !important;
+ }
+ .viewField{
+  display: flex !important;
+  align-items: center !important;
+  margin-top: 5px !important;
+ }
+ .viewField:first-child{
+  margin-top: 1px !important;
+ }
